@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1032188828440",
+    "firebase_url": "https://curd-4a660-default-rtdb.firebaseio.com",
+    "project_id": "curd-4a660",
+    "storage_bucket": "curd-4a660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032188828440:android:82ab74545628ed53255c6d",
+        "android_client_info": {
+          "package_name": "com.example.cud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_pIVzIZ9GnGYUokFE43FLuuuv7Ianog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032188828440:android:b63428468d6099ff255c6d",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_pIVzIZ9GnGYUokFE43FLuuuv7Ianog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032188828440:android:96648c16b880d4a1255c6d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_pIVzIZ9GnGYUokFE43FLuuuv7Ianog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

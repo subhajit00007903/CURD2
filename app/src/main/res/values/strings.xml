@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CUD</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="user_management">User Management</string>
+</resources>
